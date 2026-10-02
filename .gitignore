@@ -1,0 +1,9 @@
+# Basura de Windows
+Thumbs.db
+desktop.ini
+
+# Datos y secretos locales: nunca al repo
+secrets/
+*.local.*
+*.pfx
+*.key
